@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @hassannadeem7055
-- 👀 I’m interested in Technology, Code and Networking.
-- 🌱 I’m currently enrolled in a MASTERS degree in Computer Science.
-- 💞️ I’m looking to collaborate on projects of every nature.
-- 📫 How to reach me Cell +92-321-8453215
+Hi, I'm Hassan. I talk to computers in many languages like C++, Python, JavaScript and MERN, seamlessly navigating the coding realm, turning bugs into distant memories and weaving through data intricacies with precision. As a machine learning engineer, I also specialize in making algorithms do the thinking, so you can focus on more important things, like deciding between coffee and tea for your next coding sprint. From revolutionizing ESG platforms to optimizing cloud streams, I bring a distinctive touch to every line of code, making sure it runs smoother than a well-caffeinated gradient descent. Let's connect and explore opportunities together.
